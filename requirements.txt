@@ -1,0 +1,9 @@
+streamlit==1.35.0
+scikit-learn==1.4.2
+pandas==2.2.2
+numpy==1.26.4
+joblib==1.4.2
+matplotlib==3.8.4
+plotly==5.21.0
+gspread==6.1.0
+oauth2client==4.1.3
